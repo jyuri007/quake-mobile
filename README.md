@@ -9,4 +9,4 @@ to jump is the button ↑
 to swith switch weapons is the buttons on top of red and ↑ buttons  
 the button fullscreen is bugged it only disappears when clicked  
 the sensitivity is low by default  
-<img width="200" height="113" alt="quake-shambler" src="https://github.com/user-attachments/assets/59f5ef75-88c8-4a34-85a5-53538557405b" />
+<iframe src="https://gifer.com/embed/HYsZ" width=480 height=480.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
